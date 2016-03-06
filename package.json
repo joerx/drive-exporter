@@ -1,0 +1,26 @@
+{
+  "name": "drive-exporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jörg Henning <henning.joerg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.7",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerx/drive-exporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joerx/drive-exporter/issues"
+  },
+  "homepage": "https://github.com/joerx/drive-exporter#readme",
+  "description": ""
+}
