@@ -109,7 +109,7 @@ let fileId = process.argv[2]
 let gid = process.argv[3]
 
 if (!fileId || !gid) {
-  console.error('Usage: node download.js {{fileId}} {{gid}}')
+  console.error('Usage: node index.js {{fileId}} {{gid}}')
   process.exit(1)
 }
 
